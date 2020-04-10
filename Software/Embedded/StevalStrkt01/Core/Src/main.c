@@ -110,6 +110,8 @@ int main(void)
   {
     /* USER CODE END WHILE */
 	  HAL_Delay(1000);
+
+	  HAL_UART_Transmit(&huart2, "Teste",sizeof("Teste"),5000);
     /* USER CODE BEGIN 3 */
   }
   /* USER CODE END 3 */
