@@ -1,4 +1,4 @@
 # Steval Board
 # Ignora tudo dentro do diretório abaixo
 
-/Software/Embedded/StevalStrkt01/Debug/*
+#/Software/Embedded/StevalStrkt01/Debug/*
