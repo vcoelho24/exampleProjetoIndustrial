@@ -4,7 +4,7 @@
 
 
 ### Participantes
-Jorge Silva
-Daniel Parente 
-Vitor Coelho
+Jorge Silva\
+Daniel Parente\
+Vitor Coelho\
 
